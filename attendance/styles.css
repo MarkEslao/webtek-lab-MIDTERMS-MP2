@@ -1,0 +1,87 @@
+
+/*EVENTS*/
+html {
+    background-image: url(dots.jpg);
+}
+h1{
+	font-size: 40px;
+	font-family: impact, charcoal, sans-serif;
+    text-shadow: 2px 2px rgba(0,0,0,0.2);
+	text-align: center;
+    border-radius: 10px;
+	color: slategray;
+	margin-top:-5px;
+}
+h2{
+	font-family:charcoal, sans-serif;
+	color: slategray;
+	text-align: center;
+}
+#eventsbody{
+    line-height: 40px;
+    border-radius: 10px;
+	background-color: white;
+    margin: auto;
+    padding: 2%;
+    margin-top: 40px;
+    height: 500px;
+    width: 420px;
+    box-shadow:0px 4px 15px rgba(0,0,0,0.9);
+}
+
+li{
+    list-style: none;
+	text-align: center;
+	margin-top:-5px;
+}
+a{
+	text-decoration:none;
+	color: slategray;
+	font-weight:bold;
+}
+a:hover {
+	background-color: LightSkyBlue ;
+}
+/*table*/
+.table th, td{
+    border: 1px solid black;
+}
+.table th{
+    text-align: center;
+    width: 20px;
+}
+
+#a{
+	margin-top:5px;
+    text-align: center;
+}
+#a button:hover{
+	background-color: LightSkyBlue ;
+}
+
+/*students*/
+#studentsbody{
+	 line-height: 40px;
+    border-radius: 10px;
+	background-color: white;
+    margin: auto;
+    padding: 2%;
+    margin-top: 40px;
+    height: 500px;
+    width: 420px;
+    box-shadow:0px 4px 15px rgba(0,0,0,0.9);
+}
+button:hover{
+	background-color: LightSkyBlue ;
+}
+#s{
+	margin-top:5px;
+    text-align: center;
+}
+#s button:hover{
+	background-color: LightSkyBlue ;
+}
+
+
+
+
